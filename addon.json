@@ -1,0 +1,11 @@
+{
+	"title"		:	"[TTT2] VSkin Pack #1 [THEME]",
+	"type"		:	"effects",
+    "tags"		:	[ "realism", "fun" ],
+    "ignore"    : [
+        ".git/*",
+        ".gitignore",
+        "README.md",
+		"ttt2-vskin_pack_1.jpg"
+    ]
+}
