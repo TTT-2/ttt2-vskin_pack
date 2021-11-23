@@ -4,12 +4,12 @@ vskin.RegisterVSkin("classic", {
 		accent = Color(105, 110, 113, 255),
 		accent_dark = Color(77, 81, 84, 255),
 		scroll = Color(217, 217, 219, 255),
-		shadow = Color(0, 0, 0, 100),
+		shadow = Color(22, 24, 27, 255),
 		screen = Color(56, 59, 64, 200),
 		title_text = Color(220, 225, 230, 255)
 	},
 	params = {
-		shadow_size = 0,
+		shadow_size = 2,
 		header_height = 45,
 		collapsable_height = 30,
 		border_size = 3,
